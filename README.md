@@ -22,12 +22,14 @@ Curated list of Python data science libraries
 <a href="https://github.com/Lasagne/Lasagne">Lasagne</a><br/>
 <a href="https://github.com/torch/torch7">Torch</a><br/>
 <a href="https://github.com/zomux/deepy">deepy</a><br/>
+<a href="https://github.com/tflearn/tflearn">tfLearn</a><br/>
 
 ### Natural Language Processing
 <a href="http://www.nltk.org/">nltk</a><br/>
 <a href="https://radimrehurek.com/gensim/models/word2vec.html">Gensim word2vec</a><br/>
 <a href="https://radimrehurek.com/gensim/models/ldamodel.html">Gensim LDA</a><br/>
 <a href="https://spacy.io/">spaCy</a><br/>
+<a href="https://github.com/chartbeat-labs/textacy">textacy</a><br/>
 <a href="https://pypi.python.org/pypi/PyNLPl/">PyNLPl</a><br/>
 
 ### Graphics
